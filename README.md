@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/kuaner">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/kuaner/kuaner/main/assets/mobile-hero.png">
-      <img src="https://raw.githubusercontent.com/kuaner/kuaner/main/assets/hero.png" alt="Kuaner — Make useful things. Make them quiet." width="100%">
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/kuaner/kuaner/main/assets/mobile-hero.png?v=2">
+      <img src="https://raw.githubusercontent.com/kuaner/kuaner/main/assets/hero.png?v=2" alt="Kuaner — Make it useful. Then make it quiet." width="100%">
     </picture>
   </a>
 </p>

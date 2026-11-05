@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Kuaner — Make useful things. Make them quiet.</title>
+  <title id="title">Kuaner — Make it useful. Then make it quiet.</title>
   <desc id="desc">A warm editorial banner with an e-ink device illustration.</desc>
 
   <defs>
@@ -30,8 +30,8 @@
     <text x="1222" y="56" fill="#6F6A60" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.8">AI × HARDWARE × EVERYDAY TOOLS</text>
 
     <g font-family="'Iowan Old Style', Baskerville, 'Times New Roman', serif">
-      <text x="56" y="170" fill="#161616" font-size="76" font-weight="700" letter-spacing="-2.6">Make useful things.</text>
-      <text x="56" y="248" fill="#FF5A36" font-size="76" font-style="italic" font-weight="700" letter-spacing="-2.6">Make them quiet.</text>
+      <text x="56" y="170" fill="#161616" font-size="76" font-weight="700" letter-spacing="-2.6">Make it useful.</text>
+      <text x="56" y="248" fill="#FF5A36" font-size="76" font-style="italic" font-weight="700" letter-spacing="-2.6">Then make it quiet.</text>
     </g>
 
     <text x="58" y="302" fill="#504C44" font-family="'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="23" letter-spacing="0.2">把 AI、硬件与日常工具，做成真正会用的东西。</text>
