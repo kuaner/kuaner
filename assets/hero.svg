@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kuaner — Make useful things. Make them quiet.</title>
+  <desc id="desc">A warm editorial banner with an e-ink device illustration.</desc>
+
+  <defs>
+    <clipPath id="panel">
+      <rect width="1280" height="360" rx="28"/>
+    </clipPath>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#161616" opacity="0.13"/>
+    </pattern>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8F4EA"/>
+      <stop offset="0.58" stop-color="#F2EDE1"/>
+      <stop offset="1" stop-color="#E8E1D3"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#panel)">
+    <rect width="1280" height="360" fill="url(#paper)"/>
+    <rect width="1280" height="360" fill="url(#dots)"/>
+
+    <circle cx="1078" cy="181" r="153" fill="none" stroke="#161616" stroke-opacity="0.08" stroke-width="1"/>
+    <circle cx="1078" cy="181" r="121" fill="none" stroke="#161616" stroke-opacity="0.11" stroke-width="1"/>
+    <line x1="1078" y1="12" x2="1078" y2="348" stroke="#161616" stroke-opacity="0.06"/>
+    <line x1="890" y1="181" x2="1248" y2="181" stroke="#161616" stroke-opacity="0.06"/>
+
+    <rect x="58" y="46" width="11" height="11" rx="2" fill="#FF5A36"/>
+    <text x="81" y="57" fill="#161616" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">KUANER / TOOLS FOR EVERYDAY LIFE</text>
+    <text x="1222" y="56" fill="#6F6A60" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.8">AI × HARDWARE × EVERYDAY TOOLS</text>
+
+    <g font-family="'Iowan Old Style', Baskerville, 'Times New Roman', serif">
+      <text x="56" y="170" fill="#161616" font-size="76" font-weight="700" letter-spacing="-2.6">Make useful things.</text>
+      <text x="56" y="248" fill="#FF5A36" font-size="76" font-style="italic" font-weight="700" letter-spacing="-2.6">Make them quiet.</text>
+    </g>
+
+    <text x="58" y="302" fill="#504C44" font-family="'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif" font-size="23" letter-spacing="0.2">把 AI、硬件与日常工具，做成真正会用的东西。</text>
+
+    <text x="58" y="334" fill="#7B756A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7">BUILD · OBSERVE · REFINE</text>
+    <line x1="241" y1="330" x2="816" y2="330" stroke="#161616" stroke-opacity="0.16"/>
+    <circle cx="827" cy="330" r="3" fill="#161616" opacity="0.5"/>
+
+    <g transform="translate(926 102) rotate(-7 160 100)">
+      <rect x="11" y="14" width="320" height="202" rx="27" fill="#161616" opacity="0.12"/>
+      <rect width="320" height="202" rx="27" fill="#161616"/>
+      <rect x="12" y="12" width="296" height="178" rx="16" fill="#EEE9DE"/>
+
+      <text x="31" y="34" fill="#161616" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.8">INK / DAILY</text>
+      <circle cx="288" cy="30" r="4" fill="#FF5A36"/>
+      <line x1="31" y1="46" x2="289" y2="46" stroke="#161616" stroke-opacity="0.2"/>
+
+      <text x="31" y="86" fill="#161616" font-family="'Iowan Old Style', Baskerville, 'Times New Roman', serif" font-size="30" font-weight="700" letter-spacing="-0.8">Less,</text>
+      <text x="31" y="118" fill="#161616" font-family="'Iowan Old Style', Baskerville, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" letter-spacing="-0.8">but better.</text>
+
+      <line x1="31" y1="133" x2="289" y2="133" stroke="#161616" stroke-opacity="0.2"/>
+      <g fill="#161616">
+        <rect x="31" y="155" width="22" height="4" rx="2"/>
+        <rect x="62" y="151" width="22" height="8" rx="2"/>
+        <rect x="93" y="147" width="22" height="12" rx="2"/>
+        <rect x="124" y="142" width="22" height="17" rx="2"/>
+        <rect x="155" y="137" width="22" height="22" rx="2"/>
+      </g>
+      <rect x="186" y="130" width="22" height="29" rx="2" fill="#FF5A36"/>
+      <rect x="217" y="141" width="22" height="18" rx="2" fill="#161616" opacity="0.26"/>
+      <rect x="248" y="148" width="22" height="11" rx="2" fill="#161616" opacity="0.16"/>
+
+      <text x="31" y="179" fill="#6D685F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.5">SIGNAL / QUIET</text>
+      <text x="289" y="179" fill="#6D685F" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.2">E-INK  ·  300 PPI</text>
+    </g>
+
+    <line x1="905" y1="315" x2="949" y2="315" stroke="#161616" stroke-opacity="0.35"/>
+    <line x1="949" y1="315" x2="949" y2="303" stroke="#161616" stroke-opacity="0.35"/>
+    <text x="1222" y="333" fill="#7B756A" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1.4">OPEN SOURCE / SINCE 2012</text>
+
+    <rect x="0.5" y="0.5" width="1279" height="359" rx="27.5" fill="none" stroke="#161616" stroke-opacity="0.13"/>
+  </g>
+</svg>
